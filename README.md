@@ -32,7 +32,7 @@ This isn't a LinkedIn post but I'm grateful of what I learned about web developm
 
 - For example, I made a white girl quiz (that's 100% accurate, I surveyed white girls so obviously the quiz's data cannot be flawed) that asks you a few questions and tells you how much of a white girl you are.
 
-- Or, since my school district's technology department fell off and doesn't know how to style a page (they do just not well), or make a website, I'm working on a C# Windows Forms app that can replace the need for the website, and it was made with a ton of help from Google (the search engine, not Sundar himself), Claude, Stackoverflow, and the Mistral model on my computer.
+- Or, since my school district's technology department fell off and doesn't know how to style a page (they do just not well), or make a website, I'm working on a <br><s>C# Windows Forms app</s><br> C# Windows Presentation Foundation app now<br>that can replace the need for the website, and it was made with a ton of help from Google (the search engine, not Sundar himself), Claude, Stackoverflow, and the Mistral model on my computer.
 
 - My final example would be the time that I made an EReader so I could actually focus during English since I cannot focus on a book for almost any period of time. It actually works kinda well, I guess.
 
